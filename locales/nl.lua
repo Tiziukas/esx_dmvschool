@@ -1,4 +1,4 @@
-Locales['nl'] = {
+return {
   ['you_paid'] = 'je betaalde €%s aan het CBR',
   ['go_next_point'] = 'ga naar het volgende punt!',
   ['in_town_speed'] = 'We zitten in de stad, let op je snelheid! Snelheids limiet: %s km/h',

@@ -1,4 +1,4 @@
-Locales['sv'] = {
+return {
     ['you_paid'] = 'Du betalade %skr till körskolan!',
     ['go_next_point'] = 'Åk till nästa punkt!',
     ['in_town_speed'] = 'Du är inne i stan, håll koll på hastigheten! Hastighetsgräns: %s km/h',

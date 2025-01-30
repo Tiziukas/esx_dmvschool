@@ -1,4 +1,4 @@
-Locales['it'] = {
+return {
   ['you_paid'] = 'hai pagato $%s alla scuola guida',
   ['go_next_point'] = 'vai al punto successivo!',
   ['in_town_speed'] = 'sei entrato in città, fai attenzione alla tua velocità! Limite di velocità: %s km/h',

@@ -1,4 +1,4 @@
-Locales['zh-cn'] = {
+return {
   ['you_paid'] = '成功支付驾考学费：$%s',
   ['go_next_point'] = '请小心驾驶前往下一考试点!',
   ['in_town_speed'] = '请注意进入城区, 请减速! 注意限速: %s km/h',

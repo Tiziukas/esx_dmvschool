@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   ['you_paid'] = 'Fizettél $%s az autósiskolának iskolának!',
   ['go_next_point'] = 'Menj a kövtkező ponthoz!',
   ['in_town_speed'] = 'Beértél a városba, figyelj a sebességedre! A sebesség határ: %s km/h',
